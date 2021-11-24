@@ -1,0 +1,3 @@
+git remote add git@github.com:petergithinji012/demo-repo.git
+git branch -M
+git push -U git@github.com:petergithinji012/demo-repo.git
